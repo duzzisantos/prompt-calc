@@ -1,6 +1,6 @@
 //THIS WEEK'S DISCUSSION
 
-// 1. How to filter, I forgot to include map after the filter :D!
+// 1. How to filter
 function myFilter(
   scores = [{ name: "", subject: "", marks: 0, classIdentity: 0 }]
 ) {
